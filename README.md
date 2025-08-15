@@ -14,7 +14,6 @@ This collection features four beginner-friendly Python scripts designed to intro
 2. [How to Run](#how-to-run)
 3. [Example Usage](#example-usage)
 4. [DevOps Relevance](#devops-relevance)
-5. [License](#license)
 
 ---
 
